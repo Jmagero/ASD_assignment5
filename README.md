@@ -15,7 +15,7 @@ Customers should be able to sign in to the system and view their deliveries, inc
 A Delivery Driver cannot be assigned more than 5 deliveries in any given week. The system should prevent a Customer from requesting a new delivery if they have an outstanding, unpaid bill for a previous delivery service they have received.
 
 **UML Class Diagram**
-![](classdiagram.jpeg)
+![](classdiagram.png)
 
 
 **Architecture**
